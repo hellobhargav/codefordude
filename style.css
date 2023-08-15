@@ -7,6 +7,9 @@
   position: absolute;
   z-index: -1;
 }
+.bg-dark-50{
+  background-color:#00000085;
+}
 .bg{
   background:url("assests/images/bg.avif") center no-repeat;
   background-size:cover;
